@@ -1,17 +1,18 @@
 <img align="left" src="https://drive.google.com/uc?id=1tY0CYQr8DobCmhTON5i_WPqeYCk197Yq">
 
-### Hey! I'm **Marcos Pivetta** 🇧🇷
-I work with Machine Learning and all stuff related. I also love contributing to open source projects.
+### Hey! I'm **Marcos Pivetta** 🇧🇷 &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&color=000080&logo=LinkedIn)](https://www.linkedin.com/in/marcos-pivetta) [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&color=000080&logo=Gmail&logoColor=white)](mailto:marcospivetta60@gmail.com) 
+I work with Machine Learning and all stuff related. I also love contributing to open source projects. 
 
-[![views](https://komarev.com/ghpvc/?username=pivettamarcos&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun) [![Github Follow](https://img.shields.io/github/followers/pivettamarcos?label=Follow%20Me&style=social)](https://github.com/pivettamarcos)
-
-<br>
+[![Github Follow](https://img.shields.io/github/followers/pivettamarcos?label=Follow%20Me&style=for-the-badge&labelColor=%23009999&color=%23009999)](https://github.com/pivettamarcos) ![Visitor Count](https://profile-counter.glitch.me/pivettamarcos/count.svg)  
 
 <!---
 Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 -->
+
+##
+
 ### **Having fun with these technologies 👨🏽‍💻**
-<div align="left">
+<div align="center">
 
 <br/>
 <div>
