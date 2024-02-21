@@ -13,7 +13,7 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 ##
 
 ### **Having fun with these technologies 👨🏽‍💻**
-<div align="center">
+<div align="left">
 
 <br/>
 <div>
