@@ -1,11 +1,11 @@
-<img src="https://github.com/pivettamarcos/pivettamarcos/blob/main/title_bar.png" align="left" width="940" height="25">
+<img src="https://github.com/pivettamarcos/pivettamarcos/blob/main/title_bar.png" align="left" width="760" height="25">
 <table>
   <tbody>
     <tr>
       <td align="right">
         <div>
         <img src="https://github.com/pivettamarcos/pivettamarcos/blob/main/computer.gif" align="left" width="192" height="172">
-        <img align="left" src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=1000&pause=500&color=F7F7F7&multiline=true&repeat=false&random=false&width=700&height=150&lines=%3E+Hey!+I'm+Marcos+Pivetta;%3E+I+work+with+machine+learning+and+all+stuff+related;%3E+I+also+love+contributing+to+open+source+projects">
+        <img align="left" src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=1000&pause=500&color=F7F7F7&vCenter=true&multiline=true&repeat=false&random=false&width=520&height=150&lines=%3E+Hey!+I'm+Marcos+Pivetta;%3E+Master's+student+%40+UFRGS;%3E+I+work+with+machine+learning+and+all+stuff+related;%3E+I+also+love+contributing+to+open+source+projects_">
         </div>
       </td>
     </tr>
