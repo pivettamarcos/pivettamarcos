@@ -32,3 +32,8 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pivettamarcos&show_icons=true&count_private=true" align="center" /></div>  
 -->
+
+### **This is a list of my most recent activity on GitHub:**
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
