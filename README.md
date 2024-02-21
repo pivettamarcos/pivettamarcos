@@ -1,9 +1,8 @@
-<img align="left" src="https://drive.google.com/uc?id=1tY0CYQr8DobCmhTON5i_WPqeYCk197Yq">
+<img align="left" width="152" height="152" src="https://github.com/pivettamarcos/pivettamarcos/blob/main/computer_explorer.gif">
 
+&nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=1000&pause=200&color=F7F7F7&multiline=true&repeat=false&random=false&width=600&height=100&lines=%3E+Hey!+I'm+Marcos+Pivetta+;%3E+I+work+with+Machine+Learning+and+all+stuff+related;%3E+I+also+love+contributing+to+open+source+projects)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=1000&pause=200&color=F7F7F7&multiline=true&repeat=false&random=false&width=600&height=100&lines=%3E+Hey!+I'm+Marcos+Pivetta+;%3E+I+work+with+Machine+Learning+and+all+stuff+related;%3E+I+also+love+contributing+to+open+source+projects)](https://git.io/typing-svg)
-
-[![Github Follow](https://img.shields.io/github/followers/pivettamarcos?label=Follow%20Me&style=for-the-badge&labelColor=%23009999&color=%23009999)](https://github.com/pivettamarcos) &nbsp;&nbsp;  [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&color=000080&logo=LinkedIn)](https://www.linkedin.com/in/marcos-pivetta) [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&color=000080&logo=Gmail&logoColor=white)](mailto:marcospivetta60@gmail.com)  
+&nbsp;&nbsp;&nbsp;&nbsp;[![Github Follow](https://img.shields.io/github/followers/pivettamarcos?label=Follow%20Me&style=for-the-badge&labelColor=%23009999&color=%23009999)](https://github.com/pivettamarcos) &nbsp;&nbsp;  [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&color=000080&logo=LinkedIn)](https://www.linkedin.com/in/marcos-pivetta) [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&color=000080&logo=Gmail&logoColor=white)](mailto:marcospivetta60@gmail.com)  
 
 
 
