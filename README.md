@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[![Github Follow](https://img.shields.io/github/followers/pivettamarcos?label=Follow%20Me&style=for-the-badge&labelColor=%23009999&color=%23009999)](https://github.com/pivettamarcos) &nbsp;&nbsp;  [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&color=000080&logo=LinkedIn)](https://www.linkedin.com/in/marcos-pivetta) [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&color=000080&logo=Gmail&logoColor=white)](mailto:marcospivetta60@gmail.com)  
 -->
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Github Follow](https://github.com/pivettamarcos/pivettamarcos/blob/main/follow%20me.png)](https://github.com/pivettamarcos)
+[![Github Follow](https://github.com/pivettamarcos/pivettamarcos/blob/main/follow_me.png)](https://github.com/pivettamarcos)
 [![LinkedIn](https://github.com/pivettamarcos/pivettamarcos/blob/main/linkedin.png)](https://www.linkedin.com/in/marcos-pivetta)
 [![Mail](https://github.com/pivettamarcos/pivettamarcos/blob/main/mail.png)](mailto:marcospivetta60@gmail.com)
 
