@@ -67,9 +67,9 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 
 ### **This is a list of my most recent activity on GitHub:**
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chris-chris/ml-engineer-roadmap](https://github.com/chris-chris/ml-engineer-roadmap)<br>
-2. 🔱 Forked [pivettamarcos/platform-ds](https://github.com/pivettamarcos/platform-ds) from [aksl20/platform-ds](https://github.com/aksl20/platform-ds)<br>
-3. 🔱 Forked [pivettamarcos/docker-hadoop-spark](https://github.com/pivettamarcos/docker-hadoop-spark) from [tboutaour/docker-hadoop-spark](https://github.com/tboutaour/docker-hadoop-spark)<br>
-4. 📔 Created new repository [pivettamarcos/courses](https://github.com/pivettamarcos/courses)<br>
-5. ⭐ Starred [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)<br>
+1. ⭐ Starred [databricks/spark-deep-learning](https://github.com/databricks/spark-deep-learning)<br>
+2. ⭐ Starred [chris-chris/ml-engineer-roadmap](https://github.com/chris-chris/ml-engineer-roadmap)<br>
+3. 🔱 Forked [pivettamarcos/platform-ds](https://github.com/pivettamarcos/platform-ds) from [aksl20/platform-ds](https://github.com/aksl20/platform-ds)<br>
+4. 🔱 Forked [pivettamarcos/docker-hadoop-spark](https://github.com/pivettamarcos/docker-hadoop-spark) from [tboutaour/docker-hadoop-spark](https://github.com/tboutaour/docker-hadoop-spark)<br>
+5. 📔 Created new repository [pivettamarcos/courses](https://github.com/pivettamarcos/courses)<br>
 <!--RECENT_ACTIVITY:end-->
