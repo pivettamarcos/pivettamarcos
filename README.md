@@ -70,9 +70,9 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 
 ### **This is a list of my most recent activity on GitHub:**
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [armankhondker/best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources)<br>
-2. ⭐ Starred [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
-3. ⭐ Starred [hurshd0/must-read-papers-for-ml](https://github.com/hurshd0/must-read-papers-for-ml)<br>
-4. ⭐ Starred [databricks/spark-deep-learning](https://github.com/databricks/spark-deep-learning)<br>
-5. ⭐ Starred [chris-chris/ml-engineer-roadmap](https://github.com/chris-chris/ml-engineer-roadmap)<br>
+1. ⭐ Starred [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)<br>
+2. ⭐ Starred [armankhondker/best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources)<br>
+3. ⭐ Starred [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
+4. ⭐ Starred [hurshd0/must-read-papers-for-ml](https://github.com/hurshd0/must-read-papers-for-ml)<br>
+5. ⭐ Starred [databricks/spark-deep-learning](https://github.com/databricks/spark-deep-learning)<br>
 <!--RECENT_ACTIVITY:end-->
