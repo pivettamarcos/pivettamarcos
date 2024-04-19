@@ -70,9 +70,9 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 
 ### **This is a list of my most recent activity on GitHub:**
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [pivettamarcos/DeepTSF-tsops](https://github.com/pivettamarcos/DeepTSF-tsops) from [I-NERGY/DeepTSF](https://github.com/I-NERGY/DeepTSF)<br>
+1. 💬 Commented on [#1652](https://github.com/kubeflow/spark-operator/issues/1652#issuecomment-2067238168) in [kubeflow/spark-operator](https://github.com/kubeflow/spark-operator)<br>
 2. 🔱 Forked [pivettamarcos/DeepTSF-tsops](https://github.com/pivettamarcos/DeepTSF-tsops) from [I-NERGY/DeepTSF](https://github.com/I-NERGY/DeepTSF)<br>
-3. ⭐ Starred [I-NERGY/DeepTSF](https://github.com/I-NERGY/DeepTSF)<br>
-4. ⭐ Starred [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)<br>
-5. ⭐ Starred [armankhondker/best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources)<br>
+3. 🔱 Forked [pivettamarcos/DeepTSF-tsops](https://github.com/pivettamarcos/DeepTSF-tsops) from [I-NERGY/DeepTSF](https://github.com/I-NERGY/DeepTSF)<br>
+4. ⭐ Starred [I-NERGY/DeepTSF](https://github.com/I-NERGY/DeepTSF)<br>
+5. ⭐ Starred [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)<br>
 <!--RECENT_ACTIVITY:end-->
