@@ -59,7 +59,13 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 <img src="https://img.shields.io/badge/PyTorch%20-%2320232a.svg?&style=for-the-badge&logo=PyTorch&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/scikitlearn%20-%2335495e.svg?&style=for-the-badge&logo=scikitlearn&logoColor=%234FC08D"/>
 <img src="https://img.shields.io/badge/pandas%20-%23F05033.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly%20-%23F05033.svg?&style=for-the-badge&logo=Plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly%20-%23F05033.svg?&style=for-the-badge&logo=Plotly&logoColor=white"/>
+</div>
+<br/>
+<div>
+<img src="https://img.shields.io/badge/Docker%20-%23007ACC.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes%20-%23007ACC.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/helm%20-%23007ACC.svg?&style=for-the-badge&logo=helm&logoColor=white"/>
 </div>
 </div>
 
