@@ -57,9 +57,9 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 <div>
 <img src="https://img.shields.io/badge/MLFlow%20-%23007ACC.svg?&style=for-the-badge&logo=MLFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch%20-%2320232a.svg?&style=for-the-badge&logo=PyTorch&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Keras%20-%2320232a.svg?&style=for-the-badge&logo=Keras&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/scikitlearn%20-%2335495e.svg?&style=for-the-badge&logo=scikitlearn&logoColor=%234FC08D"/>
-<img src="https://img.shields.io/badge/pandas%20-%23F05033.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly%20-%23F05033.svg?&style=for-the-badge&logo=Plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white"/>
 </div>
 <br/>
 <div>
