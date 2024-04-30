@@ -76,9 +76,9 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 
 ### **This is a list of my most recent activity on GitHub:**
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [petrobras/3W](https://github.com/petrobras/3W)<br>
-2. 💬 Commented on [#97](https://github.com/petrobras/3W/pull/97#issuecomment-2073448686) in [petrobras/3W](https://github.com/petrobras/3W)<br>
-3. 💪 Opened PR [#98](https://github.com/petrobras/3W/pull/98) in [petrobras/3W](https://github.com/petrobras/3W)<br>
-4. ❌ Closed PR [#97](https://github.com/petrobras/3W/pull/97) in [petrobras/3W](https://github.com/petrobras/3W)<br>
-5. 💪 Opened PR [#97](https://github.com/petrobras/3W/pull/97) in [petrobras/3W](https://github.com/petrobras/3W)<br>
+1. ⭐ Starred [rasbt/mlxtend](https://github.com/rasbt/mlxtend)<br>
+2. ⭐ Starred [petrobras/3W](https://github.com/petrobras/3W)<br>
+3. 💬 Commented on [#97](https://github.com/petrobras/3W/pull/97#issuecomment-2073448686) in [petrobras/3W](https://github.com/petrobras/3W)<br>
+4. 💪 Opened PR [#98](https://github.com/petrobras/3W/pull/98) in [petrobras/3W](https://github.com/petrobras/3W)<br>
+5. ❌ Closed PR [#97](https://github.com/petrobras/3W/pull/97) in [petrobras/3W](https://github.com/petrobras/3W)<br>
 <!--RECENT_ACTIVITY:end-->
