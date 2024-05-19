@@ -38,7 +38,7 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 ### **Notable projects 📦**
 - [Microservice stack for training and inference of time series ML models using MLFlow, Darts and ML libraries](https://github.com/BDI-UFRGS/MLFlow-TimeSeries-Oil-Stack)<br>
 - [Information Retrieval and Extraction tool for COVID-19 papers using NLTK, Hugging Face transformers and Ktrain](https://github.com/pivettamarcos/CORD-19_KTool)<br>
-- [Prion - A demake of the 80's computer game Zarch/Virus 🕹️](https://tpnk-dev.itch.io/prion)<br>
+- [Prion - A demake of the 80's computer game Zarch/Virus 🕹️](https://github.com/tpnk-dev/prion-pico8/tree/main)<br>
 
 ### **Having fun with these technologies 👨🏽‍💻**
 <div align="left">
