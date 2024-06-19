@@ -77,9 +77,9 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 
 ### **This is a list of my most recent activity on GitHub:**
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BDI-UFRGS/O3POntology](https://github.com/BDI-UFRGS/O3POntology)<br>
-2. ⭐ Starred [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent)<br>
-3. 💬 Commented on [#1714](https://github.com/OpenDevin/OpenDevin/issues/1714#issuecomment-2118153518) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
-4. ⭐ Starred [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)<br>
-5. ⭐ Starred [rasbt/mlxtend](https://github.com/rasbt/mlxtend)<br>
+1. ⭐ Starred [sebp/scikit-survival](https://github.com/sebp/scikit-survival)<br>
+2. ⭐ Starred [BDI-UFRGS/O3POntology](https://github.com/BDI-UFRGS/O3POntology)<br>
+3. ⭐ Starred [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent)<br>
+4. 💬 Commented on [#1714](https://github.com/OpenDevin/OpenDevin/issues/1714#issuecomment-2118153518) in [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
+5. ⭐ Starred [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)<br>
 <!--RECENT_ACTIVITY:end-->
