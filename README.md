@@ -77,9 +77,9 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 
 ### **This is a list of my most recent activity on GitHub:**
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abledbody/picocopter.p64](https://github.com/abledbody/picocopter.p64)<br>
-2. ❗️ Opened issue [#466](https://github.com/sebp/scikit-survival/issues/466) in [sebp/scikit-survival](https://github.com/sebp/scikit-survival)<br>
-3. ⭐ Starred [Galileo-Galilei/kedro-mlflow](https://github.com/Galileo-Galilei/kedro-mlflow)<br>
-4. ⭐ Starred [sebp/scikit-survival](https://github.com/sebp/scikit-survival)<br>
-5. ⭐ Starred [BDI-UFRGS/O3POntology](https://github.com/BDI-UFRGS/O3POntology)<br>
+1. 💬 Commented on [#466](https://github.com/sebp/scikit-survival/issues/466#issuecomment-2239204539) in [sebp/scikit-survival](https://github.com/sebp/scikit-survival)<br>
+2. ⭐ Starred [abledbody/picocopter.p64](https://github.com/abledbody/picocopter.p64)<br>
+3. ❗️ Opened issue [#466](https://github.com/sebp/scikit-survival/issues/466) in [sebp/scikit-survival](https://github.com/sebp/scikit-survival)<br>
+4. ⭐ Starred [Galileo-Galilei/kedro-mlflow](https://github.com/Galileo-Galilei/kedro-mlflow)<br>
+5. ⭐ Starred [sebp/scikit-survival](https://github.com/sebp/scikit-survival)<br>
 <!--RECENT_ACTIVITY:end-->
