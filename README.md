@@ -77,9 +77,9 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 
 ### **This is a list of my most recent activity on GitHub:**
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [UKPLab/gpl](https://github.com/UKPLab/gpl)<br>
-2. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)<br>
-3. 💬 Commented on [#466](https://github.com/sebp/scikit-survival/issues/466#issuecomment-2239204539) in [sebp/scikit-survival](https://github.com/sebp/scikit-survival)<br>
-4. ⭐ Starred [abledbody/picocopter.p64](https://github.com/abledbody/picocopter.p64)<br>
-5. ❗️ Opened issue [#466](https://github.com/sebp/scikit-survival/issues/466) in [sebp/scikit-survival](https://github.com/sebp/scikit-survival)<br>
+1. ⭐ Starred [Abacatinhos/eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil)<br>
+2. ⭐ Starred [UKPLab/gpl](https://github.com/UKPLab/gpl)<br>
+3. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)<br>
+4. 💬 Commented on [#466](https://github.com/sebp/scikit-survival/issues/466#issuecomment-2239204539) in [sebp/scikit-survival](https://github.com/sebp/scikit-survival)<br>
+5. ⭐ Starred [abledbody/picocopter.p64](https://github.com/abledbody/picocopter.p64)<br>
 <!--RECENT_ACTIVITY:end-->
