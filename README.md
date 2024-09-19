@@ -77,9 +77,9 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 
 ### **This is a list of my most recent activity on GitHub:**
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [keon/awesome-nlp](https://github.com/keon/awesome-nlp)<br>
-2. ⭐ Starred [Abacatinhos/eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil)<br>
-3. ⭐ Starred [UKPLab/gpl](https://github.com/UKPLab/gpl)<br>
-4. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)<br>
-5. 💬 Commented on [#466](https://github.com/sebp/scikit-survival/issues/466#issuecomment-2239204539) in [sebp/scikit-survival](https://github.com/sebp/scikit-survival)<br>
+1. ⭐ Starred [cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret)<br>
+2. ⭐ Starred [keon/awesome-nlp](https://github.com/keon/awesome-nlp)<br>
+3. ⭐ Starred [Abacatinhos/eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil)<br>
+4. ⭐ Starred [UKPLab/gpl](https://github.com/UKPLab/gpl)<br>
+5. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)<br>
 <!--RECENT_ACTIVITY:end-->
