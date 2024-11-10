@@ -81,5 +81,4 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 2. ⭐ Starred [keon/awesome-nlp](https://github.com/keon/awesome-nlp)<br>
 3. ⭐ Starred [Abacatinhos/eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil)<br>
 4. ⭐ Starred [UKPLab/gpl](https://github.com/UKPLab/gpl)<br>
-5. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)<br>
 <!--RECENT_ACTIVITY:end-->
