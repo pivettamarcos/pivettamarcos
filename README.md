@@ -77,9 +77,9 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 
 ### **This is a list of my most recent activity on GitHub:**
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)<br>
-2. ⭐ Starred [cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret)<br>
-3. ⭐ Starred [keon/awesome-nlp](https://github.com/keon/awesome-nlp)<br>
-4. ⭐ Starred [Abacatinhos/eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil)<br>
-5. ⭐ Starred [UKPLab/gpl](https://github.com/UKPLab/gpl)<br>
+1. ⭐ Starred [georgian-io/Multimodal-Toolkit](https://github.com/georgian-io/Multimodal-Toolkit)<br>
+2. ⭐ Starred [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)<br>
+3. ⭐ Starred [cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret)<br>
+4. ⭐ Starred [keon/awesome-nlp](https://github.com/keon/awesome-nlp)<br>
+5. ⭐ Starred [Abacatinhos/eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil)<br>
 <!--RECENT_ACTIVITY:end-->
