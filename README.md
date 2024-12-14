@@ -81,5 +81,4 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 2. ⭐ Starred [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)<br>
 3. ⭐ Starred [cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret)<br>
 4. ⭐ Starred [keon/awesome-nlp](https://github.com/keon/awesome-nlp)<br>
-5. ⭐ Starred [Abacatinhos/eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil)<br>
 <!--RECENT_ACTIVITY:end-->
