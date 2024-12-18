@@ -81,5 +81,4 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 2. ⭐ Starred [georgian-io/Multimodal-Toolkit](https://github.com/georgian-io/Multimodal-Toolkit)<br>
 3. ⭐ Starred [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)<br>
 4. ⭐ Starred [cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret)<br>
-5. ⭐ Starred [keon/awesome-nlp](https://github.com/keon/awesome-nlp)<br>
 <!--RECENT_ACTIVITY:end-->
