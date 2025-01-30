@@ -78,8 +78,4 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 ### **This is a list of my most recent activity on GitHub:**
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
-2. ⭐ Starred [andresvourakis/data-scientist-handbook](https://github.com/andresvourakis/data-scientist-handbook)<br>
-3. ❗️ Opened issue [#85](https://github.com/georgian-io/Multimodal-Toolkit/issues/85) in [georgian-io/Multimodal-Toolkit](https://github.com/georgian-io/Multimodal-Toolkit)<br>
-4. ⭐ Starred [georgian-io/Multimodal-Toolkit](https://github.com/georgian-io/Multimodal-Toolkit)<br>
-5. ⭐ Starred [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)<br>
 <!--RECENT_ACTIVITY:end-->
