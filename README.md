@@ -77,5 +77,4 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 
 ### **This is a list of my most recent activity on GitHub:**
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
 <!--RECENT_ACTIVITY:end-->
