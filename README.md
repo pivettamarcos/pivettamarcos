@@ -77,4 +77,6 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 
 ### **This is a list of my most recent activity on GitHub:**
 <!--RECENT_ACTIVITY:start-->
+1. 🔱 Forked [pivettamarcos/ISLR-python](https://github.com/pivettamarcos/ISLR-python) from [JWarmenhoven/ISLR-python](https://github.com/JWarmenhoven/ISLR-python)<br>
+2. ⭐ Starred [JWarmenhoven/ISLR-python](https://github.com/JWarmenhoven/ISLR-python)<br>
 <!--RECENT_ACTIVITY:end-->
