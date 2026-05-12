@@ -1,0 +1,18 @@
+{% assign projects = include.projects | default: site.projects | sort: "date" | reverse %}
+{% assign project_limit = include.limit | default: projects.size %}
+
+{% if projects.size > 0 %}
+  <ul>
+    {% for project in projects limit: project_limit %}
+      <li>
+        <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+        {% include project-meta.html project=project %}
+        {% if project.description %}
+          <p>{{ project.description }}</p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No projects yet.</p>
+{% endif %}
