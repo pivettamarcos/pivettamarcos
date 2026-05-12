@@ -1,0 +1,21 @@
+{% if page.project %}
+  {% assign project_key = page.project | slugify %}
+  {% assign referenced_project = nil %}
+
+  {% for project in site.projects %}
+    {% assign project_slug = project.slug | slugify %}
+    {% assign project_title = project.title | slugify %}
+
+    {% if project_slug == project_key or project_title == project_key %}
+      {% assign referenced_project = project %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {% if referenced_project %}
+    <p class="meta" style="margin:-1ch 0 2ch 0; opacity:.8;">
+      project:
+      <a href="{{ referenced_project.url | relative_url }}">{{ referenced_project.title }}</a>
+    </p>
+  {% endif %}
+{% endif %}

@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/prion.css' | relative_url }}">
+
+
+<article class="post prion-content">
+  <h1>{{ page.title }}</h1>
+
+  {% include post-meta.html %}
+  {% include post-project.html %}
+
+  <div class="prion-content-body">
+    {{ content }}
+  </div>
+
+  <hr>
+  <nav class="post-nav" style="display:flex; justify-content:space-between;">
+    <div class="prev">
+      {% if page.previous %}
+        ← <a href="{{ page.previous.url | relative_url }}">{{ page.previous.title }}</a>
+      {% endif %}
+    </div>
+    <div class="next" style="text-align:right;">
+      {% if page.next %}
+        <a href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a> →
+      {% endif %}
+    </div>
+  </nav>
+</article>
