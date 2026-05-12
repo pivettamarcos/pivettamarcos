@@ -1,12 +1,12 @@
 ---
-title: "Example Project"
-date: 2026-05-11
+layout: project/projects
+title: "PRION"
+date: 2024-05-10
 description: "A short description of what this project does."
-status: "ongoing"
-tags: [jekyll, example]
+status: "finished"
+tags: [pico-8, videogame]
 repository:
 website:
 ---
 
-Write the project notes here. You can document the idea, implementation details,
-links, screenshots, decisions, or anything else worth keeping with the project.
+fdssfd

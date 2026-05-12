@@ -1,10 +1,12 @@
 ---
-layout: post/prion-post
-title: "PRION: a PICO-8 demake of an old classic videogame"
+layout: project/prion-project
+title: "PRION"
 date: 2024-05-10
-description: "lorem ipsum"
-tags: [test]
-project: "prion"
+description: "A short description of what this project does."
+status: "finished"
+tags: [pico-8, prion]
+repository: dfsafads.ithub.com
+website: fdsafasd.com
 ---
 
 <style>
