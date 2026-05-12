@@ -24,16 +24,14 @@ author:
   email: marcospivetta60@gmail.com
 
 description: A technical blog about low-level programming
-url: "https://yourdomain.com"
+baseurl: ""
+url: "https://www.pivettamarcos.com"
 
 social:
   - name: "GitHub"
     url: "https://github.com/lvntky"
   - name: "LinkedIn"
     url: "https://www.linkedin.com/in/levent-kaya/"
-
-baseurl: "/pivettamarcos" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 #theme: minima
