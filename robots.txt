@@ -1,1 +1,1 @@
-Sitemap: /pivettamarcos/sitemap.xml
+Sitemap: https://www.pivettamarcos.com/sitemap.xml

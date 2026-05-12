@@ -3,14 +3,14 @@
    =============================== */
 @font-face {
   font-family: "fabfont";
-  src: url("/pivettamarcos/assets/font/DejaVuSansMono.woff2") format("woff2"), url("/pivettamarcos/assets/font/DejaVuSansMono.woff") format("woff");
+  src: url("/assets/font/DejaVuSansMono.woff2") format("woff2"), url("/assets/font/DejaVuSansMono.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 @font-face {
   font-family: "fabfont";
-  src: url("/pivettamarcos/assets/font/DejaVuSansMono-Bold.woff2") format("woff2"), url("/pivettamarcos/assets/font/DejaVuSansMono-Bold.woff") format("woff");
+  src: url("/assets/font/DejaVuSansMono-Bold.woff2") format("woff2"), url("/assets/font/DejaVuSansMono-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
   font-display: block;
