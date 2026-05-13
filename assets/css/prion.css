@@ -1,0 +1,48 @@
+.prion-content {
+  text-align: left;
+  background-color: #111D35;
+  color: #FFFFFF;
+  font-family: 'Anonymous Pro', Lato, LatoExtended, sans-serif;
+  font-size: 16px;
+  line-height: 1.0;
+  padding: 2ch;
+}
+
+.prion-content a {
+  color: #29e417;
+  opacity: 1.0;
+}
+
+.prion-content ::selection {
+  background-color: #29e417;
+  color: #111D35;
+}
+
+.prion-content-body {
+  text-align: left;
+  background-color: #111D35;
+  width: 100%;
+}
+
+.prion-content-body p {
+  text-align: left;
+  background-color: #111D35;
+}
+
+.prion-content-body .button_a {
+  background-color: #29e417;
+  font-family: 'Anonymous Pro', Lato, LatoExtended, sans-serif;
+  font-size: 12px;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  color: black;
+}
+
+html,
+body,
+a,
+iframe,
+button {
+  cursor: url("/assets/img/pico_ship.png") 0 0, auto;
+}

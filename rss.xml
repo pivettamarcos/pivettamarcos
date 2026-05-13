@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.pivettamarcos.com/rss.xml" rel="self" type="application/atom+xml" /><link href="https://www.pivettamarcos.com/" rel="alternate" type="text/html" /><updated>2026-05-13T01:55:12-03:00</updated><id>https://www.pivettamarcos.com/rss.xml</id><title type="html">Your Site Title</title><subtitle>A technical blog about low-level programming</subtitle><author><name>Marcos Pivetta</name><email>marcospivetta60@gmail.com</email></author><entry><title type="html">PRION: a tiny tribute to a classic 80s videogame</title><link href="https://www.pivettamarcos.com/2024/05/10/test.html" rel="alternate" type="text/html" title="PRION: a tiny tribute to a classic 80s videogame" /><published>2024-05-10T00:00:00-03:00</published><updated>2024-05-10T00:00:00-03:00</updated><id>https://www.pivettamarcos.com/2024/05/10/test</id><content type="html" xml:base="https://www.pivettamarcos.com/2024/05/10/test.html"><![CDATA[<style>
+  .prion-content-body .columns {
+    display: flex;
+    gap: 2ch;
+    align-items: flex-start;
+  }
+
+  .prion-content-body .columns > div {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
+  .prion-content-body .screenshot_list a {
+    display: block;
+    width: 100%;
+  }
+
+  .prion-content-body .screenshot_list img,
+  .prion-content-body img.screenshot {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .prion-content-body blockquote {
+    background-color: transparent;
+    border: none;
+    margin-left: 0;
+    font-style: italic;
+    border-left: 4px solid;
+    padding-left: 15px;
+  }
+
+  .prion-content-body p {
+    margin: 0
+  }
+
+  .prion-content-body img {
+    margin: 0
+  }
+
+  @media (max-width: 700px) {
+    .prion-content-body .columns {
+      flex-direction: column;
+    }
+  }
+</style>
+
+<p style="text-align:center;">
+<a class="button_a" href="https://tpnk-dev.itch.io/prion" style="font-size:16px; width:auto; margin: 10px auto;display: inline-block"> PLAY PRION  </a>
+</p>
+
+<p>PRION is my attempt to squeeze a late-80s 3D computer game into one of the most deliberately limiting game-making environments around: PICO-8. The game is a port of David Braben’s classic <em>Zarch</em>, later released as <em>Virus</em>. The original game’s objective is to control a ship across a landscape and shoot down enemies spreading a “virus” across the terrain. It is incredibly hard to control with a mouse, though keyboard controls were available. Its biggest innovation was its use of 3D models for the spaceships, landscape, and terrain, along with particle effects and shadows. Remember, it was released in 1987, when real-time computer graphics were still in their infancy.</p>
+
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <figure class="media" style="flex: 1; margin: 0;">
+    <iframe src="https://www.youtube.com/embed/tVykPslRSlw" title="YouTube video player" style="display: block; margin: 10px auto; height: 385px; width: 100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+    </iframe>
+    <figcaption>
+      Footage of the original game on the Acorn Archimedes (1987)
+    </figcaption>
+  </figure>
+
+  <figure class="media" style="flex: 1; margin: 0;">
+    <img src="https://img.itch.zone/aW1hZ2UvMjY5NjY2Ny8xNjA3NTg5Ni5naWY=/original/G8Lig9.gif" alt="main_25" style="max-width: 100%; display: block; margin: 10px auto;" data-target="animated-image.originalImage" />
+    <figcaption>
+      Gameplay footage of PRION for the PICO-8
+      <a class="button_a" href="https://tpnk-dev.itch.io/prion" style="font-size:12px; width:auto; margin: 5px auto;display: inline-block"> PLAY PRION  </a>
+    </figcaption>
+  </figure>
+</div>
+
+<h2 id="a-3d-game-inside-pico-8">A 3D Game Inside PICO-8</h2>
+
+<p><a href="https://www.lexaloffle.com/pico-8.php">PICO-8</a> is a “fantasy console”, a piece of software that emulates a fictional retro console hardware. It is intentionally constrained, giving you a resolution of just 128×128 pixels, a fixed 16‑color palette, limited cartridge space and memory. While primarily geared toward 2D projects, it is possible to develop 3D games using its primitive drawing functions, provided the triangle count remains low. <br /><br />
+I chose to port Zarch to PICO-8 because it was a simple-looking yet groundbreaking 3D game for its time. The original game relies on many tricks to convince players they are exploring a fully fledged 3D open world, full of rolling mountains, valleys, lakes, scenery items and particle effects. These techniques conserved a lot of processing power on the systems of that era, and they fit well with PICO-8’s own harsh limitations. In the next sections, I explain in more detail how I built a reusable PICO-8 engine for creating Zarch-like games, and the techniques inolved in rendering the terrain.</p>
+
+<h3 id="making-a-zarchy-engine">Making a “Zarchy” engine</h3>
+<p>PRION is built on top of an engine built by me, called <a href="https://github.com/tpnk-dev/zarchy-engine-pico8">Zarchy Engine</a>. It contains the very bare bone code that enables criation of zarch-style games, complete with the ability to generate a custom terrain, instantiate 2D and 3D game objects, as well as particles.</p>
+
+<figure class="media">
+<img src="https://user-images.githubusercontent.com/24397077/145115452-012ad352-d3e1-491f-ba76-34961287d8b4.gif" alt="main_25" style="max-width: 100%; display: block;margin: 10px auto" data-target="animated-image.originalImage" />
+  <figcaption>
+    A sample of the terrain rendering capabilities of Zarchy Engine
+    <br />
+    <a class="button_a" href="https://github.com/tpnk-dev/zarchy-engine-pico8" style="font-size:12px; width:auto; margin: 5px auto;display: inline-block"> Try the engine  </a>
+  </figcaption>
+</figure>
+
+<p>If you want, you can explore the engine and create your own zarch-looking game!</p>
+
+<h3 id="the-terrain">The terrain</h3>
+
+<p>One of Zarch’s most clever tricks is how it renders the terrain underneath the player’s ship. The ZARCHY engine uses the same technique as the original game, faking a huge world by representing the visible terrain below the player as a tiny mesh made up of 13x13 vertices. On each frame, the engine:</p>
+
+<ul>
+  <li>smoothly interpolates the heights of the mesh’s border vertices based on the player’s position</li>
+  <li>moves all non-edge vertices in the opposite direction of the player’s movement on the X and Z axes</li>
+  <li>checks whether the mesh has moved one tile in any direction, then “snaps” all vertices back in the opposite direction so the process can start again</li>
+</ul>
+
+<figure class="media">
+  <img src="/assets/img/main_lua_0.gif" style="max-width: 100%; display: block; margin: 10px auto" />
+  <figcaption>
+    Wireframe representation of the ZARCHY engine terrain.
+  </figcaption>
+</figure>
+
+<p>The heightmap for the entire world is stored in a single PICO-8 table and has a size of 253x253. The terrain height variation is calculated once during run-time by summing sine and cossine waves and create a wrappable terrain.</p>
+
+<h2 id="a-port-remake-demake-or-maybe-even-a-sidemake">A port, remake, demake, or maybe even a sidemake?</h2>
+
+<p>While I was developing PRION, I couldn’t stop thinking about how to categorize this version of the game. It doesn’t have better graphics, more features, or a larger visible terrain, but I think it runs a bit better than the original and has more responsive controls. I would therefore call it a port, or maybe a “sidemake”: not necessarily something that brings anything new to the table, doesn’t make anything worse, but represents a novel way of playing the game.</p>
+
+<h2 id="in-conclusion">In conclusion</h2>
+
+<p>I’m proud to have completed PRION, especially knowing how often I tend to abandon personal projects. Working with a deliberately limited tool like PICO forces you to think about problems at a much lower level, which makes the process a great learning experience. It also naturally reduces the project’s scope, making it easier to finish instead of letting it grow until it becomes overwhelming. I personally recommend PICO-8 both to beginners and to experienced game developers. For beginners, its small set of commands make game development feel approachable and help keep projects small enough to finish. Look it up, you can fit almost all PICO-8 functions on a piece of paper! For experienced developers, those limits are a chance to get back to basics: perfecting mechanics, responsive controls, clear visuals, and much more.</p>]]></content><author><name>Marcos Pivetta</name><email>marcospivetta60@gmail.com</email></author><category term="pico-8" /><category term="retro" /><category term="zarch" /><category term="virus" /><category term="prion" /><summary type="html"><![CDATA[A look at PRION, a PICO-8 sidemake of the classic 3D computer game Zarch/Virus.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.pivettamarcos.com/assets/images/logo.png" /><media:content medium="image" url="https://www.pivettamarcos.com/assets/images/logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
