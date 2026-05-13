@@ -1,11 +1,16 @@
 {% assign project = include.project | default: page %}
+{% assign project_start_date = project.start_date | default: project.date %}
+{% assign project_end_date = project.end_date %}
 <p class="post-meta">
-  {% if project.date %}
-    <time datetime="{{ project.date | date_to_xmlschema }}">{{ project.date | date: "%Y" }}</time>
+  {% if project_start_date %}
+    <time datetime="{{ project_start_date | date_to_xmlschema }}">{{ project_start_date | date: "%Y" }}</time>
+    {% if project_end_date and project_end_date != project_start_date %}
+      - <time datetime="{{ project_end_date | date_to_xmlschema }}">{{ project_end_date | date: "%Y" }}</time>
+    {% endif %}
   {% endif %}
 
   {% if project.status %}
-    {% if project.date %} · {% endif %}
+    {% if project_start_date %} · {% endif %}
     {{ project.status }}
   {% endif %}
 

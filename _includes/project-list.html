@@ -2,9 +2,7 @@
 {% assign project_limit = include.limit | default: projects.size %}
 
 {% if projects.size > 0 %}
-  <ul>
     {% for project in projects limit: project_limit %}
-      <li>
         <a href="{{ project.url | relative_url }}" {% include conditional-color.html entity=project %}>
             {{ project.title }}
         </a>
@@ -12,9 +10,7 @@
         {% if project.description %}
           <p>{{ project.description }}</p>
         {% endif %}
-      </li>
     {% endfor %}
-  </ul>
 {% else %}
   <p>No projects yet.</p>
 {% endif %}
