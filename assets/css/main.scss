@@ -78,9 +78,14 @@ div.heading {
   margin-top: 4ch;
 }
 
-h1, h2, h3, h4 {
+h1, h2 {
   font-weight: bold;
   text-transform: uppercase;
+  margin-top: 4ch;
+}
+
+h3, h4 {
+  font-weight: uppercase;
   margin-top: 4ch;
 }
 
@@ -90,7 +95,7 @@ h1, h2, h3, h4 {
 pre, code {
   font-family: 'fabfont', monospace;
 }
-
+ 
 pre {
   background-color: white;
   border: 1px solid black;
@@ -133,6 +138,10 @@ img.pixel, canvas.pixel {
   image-rendering: pixelated;
   image-rendering: -moz-crisp-edges;
   image-rendering: crisp-edges;
+}
+
+figcaption {
+  text-align: center;
 }
 
 /* For blog images inside posts */

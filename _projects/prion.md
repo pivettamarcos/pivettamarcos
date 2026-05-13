@@ -2,9 +2,11 @@
 layout: project/prion-project
 title: "PRION"
 date: 2024-05-10
-description: "A short description of what this project does."
+start_date: 2023-05-10
+end_date: 2024-05-10
+description: "PRION is an adaptation of David Braben’s classic 1980s computer game Zarch/Virus, built for the PICO-8 fantasy console."
 status: "finished"
-tags: [pico-8, prion]
+tags: [retro, pico-8, prion]
 repository: dfsafads.ithub.com
 website: fdsafasd.com
 ---
