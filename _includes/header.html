@@ -5,23 +5,53 @@
     <hr>
     <div style="text-align: justify; display: inline-block; width: 100%;">
       {% if site.email %}
-        <a class="title" href="mailto:{{ site.email }}">CONTACT</a>&nbsp;&nbsp;&nbsp;
+        <a class="title" href="mailto:{{ site.email }}">
+          <img
+            src="/assets/img/mail.png"
+            alt="GitHub"
+            width="35"
+            height="35"
+            style="display: inline;vertical-align: middle; margin: 0; image-rendering: smooth;"
+          >
+        </a>
       {% endif %}
-      {% if site.show_archive != false %}
-        <a class="title" href="{{ '/archive/' | relative_url }}">ARCHIVE</a>&nbsp;&nbsp;&nbsp;
+      {% if site.linked_in %}
+        <a class="title" href="{{ site.linked_in }}" aria-label="LinkedIn">
+          <img
+            src="/assets/img/linked_in.png"
+            alt="LinkedIn"
+            width="20"
+            height="20"
+            style="display: inline;vertical-align: middle; margin: 0; image-rendering: smooth;"
+          >
+        </a>
       {% endif %}
-      {% if site.show_rss != false %}
-        <a class="title" href="{{ site.feed.path | default: '/rss.xml' | relative_url }}">RSS</a>&nbsp;&nbsp;&nbsp;
-        {% endif %}
-        {% for page in site.pages %}
-  {% assign depth = page.path | split: "/" %}
-  {% if depth.size == 1 and page.title %}
-    {% assign ext = page.path | split: "." | last %}
-    {% if ext == "md" and page.title != "Archive" %}
-      <a class="title" href="{{ page.url | relative_url }}">{{ page.title | upcase }}</a>&nbsp;&nbsp;&nbsp;
+      {% if site.github %}
+        <a class="title" href="{{ site.github }}" aria-label="GitHub">
+          <img
+            src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+            alt="GitHub"
+            width="18"
+            height="18"
+            style="display: inline;vertical-align: middle; margin: 0"
+          >
+        </a>&nbsp;&nbsp;&nbsp;
+      {% endif %}
+  {% for page in site.pages %}
+    {% assign depth = page.path | split: "/" %}
+    {% if depth.size == 1 and page.title %}
+      {% assign ext = page.path | split: "." | last %}
+      {% if ext == "md" and page.title != "Archive" %}
+        <a class="title" href="{{ page.url | relative_url }}">{{ page.title | upcase }}</a>&nbsp;&nbsp;&nbsp;
+      {% endif %}
     {% endif %}
+  {% endfor %}
+  {% if site.show_archive != false %}
+    <a class="title" href="{{ '/archive/' | relative_url }}">ARCHIVE</a>&nbsp;&nbsp;&nbsp;
   {% endif %}
-{% endfor %}
+  {% if site.show_rss != false %}
+    <a class="title" href="{{ site.feed.path | default: '/rss.xml' | relative_url }}">RSS</a>&nbsp;&nbsp;&nbsp;
+  {% endif %}
     </div>
   </div>
 </center>

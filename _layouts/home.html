@@ -2,12 +2,11 @@
 layout: default
 ---
 
-<h1 class="heading">{{ site.title }}</h1>
+<h1 class="heading">About</h1>
 <hr>
 
 <p>
-  This is my personal site where I document code experiments and random ideas
-  that pop into my head during downtime.
+  Hi there, I'm Marcos Pivetta! I’m a data scientist by trade, but I love dipping my feet in all sorts of other computer-related things. This is my personal space where I share projects and thoughts.
 </p>
 
 <h2 class="heading">Articles</h2>
@@ -17,7 +16,7 @@ layout: default
 <h2 class="heading">Projects</h2>
 <hr>
 {% include project-list.html limit=3 %}
-<p><a href="{{ '/projects/' | relative_url }}">All projects</a></p>
+<p style="display:flex; justify-content:flex-end;"><a href="{{ '/projects/' | relative_url }}">All projects</a></p>
 
 <hr>
 <center><span class="sun">*</span></center>

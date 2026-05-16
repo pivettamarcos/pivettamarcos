@@ -18,10 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your Site Title
+title: Marcos Pivetta
 author:
   name: "Marcos Pivetta"
-  email: marcospivetta60@gmail.com
+
+linked_in: https://www.linkedin.com/in/marcos-pivetta/
+email: marcospivetta60@gmail.com
+github: https://github.com/pivettamarcos
 
 description: A technical blog about low-level programming
 baseurl: ""
@@ -29,9 +32,9 @@ url: "https://www.pivettamarcos.com"
 
 social:
   - name: "GitHub"
-    url: "https://github.com/lvntky"
+    url: "https://github.com/pivettamarcos"
   - name: "LinkedIn"
-    url: "https://www.linkedin.com/in/levent-kaya/"
+    url: "https://www.linkedin.com/in/marcos-pivetta/"
 
 # Build settings
 #theme: minima
