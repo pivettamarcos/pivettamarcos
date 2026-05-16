@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=12.0, minimum-scale=1.0, user-scalable=yes">
-<title>PRION: a tiny tribute to a classic 80s videogame · Your Site Title</title>
+<title>PRION: a tiny tribute to a classic 80s videogame · Marcos Pivetta</title>
 
 
   <meta name="description" content="A look at PRION, a PICO-8 sidemake of the classic 3D computer game Zarch/Virus.">
@@ -13,10 +13,10 @@
 
 
 
-<link rel="alternate" type="application/rss+xml" title="Your Site Title RSS" href="/rss.xml">
+<link rel="alternate" type="application/rss+xml" title="Marcos Pivetta RSS" href="/rss.xml">
 
 <!-- Begin Jekyll SEO tag v2.9.0 -->
-<title>PRION: a tiny tribute to a classic 80s videogame | Your Site Title</title>
+<title>PRION: a tiny tribute to a classic 80s videogame | Marcos Pivetta</title>
 <meta name="generator" content="Jekyll v4.4.1" />
 <meta property="og:title" content="PRION: a tiny tribute to a classic 80s videogame" />
 <meta name="author" content="Marcos Pivetta" />
@@ -25,7 +25,7 @@
 <meta name="twitter:description" property="og:description" content="A look at PRION, a PICO-8 sidemake of the classic 3D computer game Zarch/Virus." />
 <link rel="canonical" href="https://www.pivettamarcos.com/2024/05/10/test.html" />
 <meta property="og:url" content="https://www.pivettamarcos.com/2024/05/10/test.html" />
-<meta property="og:site_name" content="Your Site Title" />
+<meta property="og:site_name" content="Marcos Pivetta" />
 <meta property="og:image" content="https://www.pivettamarcos.com/assets/images/logo.png" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2024-05-10T00:00:00-03:00" />
@@ -45,88 +45,104 @@
     <br>
 <center>
   <div style="display: inline-block; vertical-align: middle;">
-    <a href="/" class="title"><b>YOUR SITE TITLE</b><br></a>
+    <a href="/" class="title"><b>MARCOS PIVETTA</b><br></a>
     <hr>
     <div style="text-align: justify; display: inline-block; width: 100%;">
       
+        <a class="title" href="mailto:marcospivetta60@gmail.com">
+          <img
+            src="/assets/img/mail.png"
+            alt="GitHub"
+            width="35"
+            height="35"
+            style="display: inline;vertical-align: middle; margin: 0; image-rendering: smooth;"
+          >
+        </a>
       
-        <a class="title" href="/archive/">ARCHIVE</a>&nbsp;&nbsp;&nbsp;
+      
+        <a class="title" href="https://www.linkedin.com/in/marcos-pivetta/" aria-label="LinkedIn">
+          <img
+            src="/assets/img/linked_in.png"
+            alt="LinkedIn"
+            width="20"
+            height="20"
+            style="display: inline;vertical-align: middle; margin: 0; image-rendering: smooth;"
+          >
+        </a>
       
       
-        <a class="title" href="/rss.xml">RSS</a>&nbsp;&nbsp;&nbsp;
-        
-        
-  
-  
-
-  
-  
-    
-    
-      <a class="title" href="/about/">ABOUT</a>&nbsp;&nbsp;&nbsp;
-    
-  
-
-  
+        <a class="title" href="https://github.com/pivettamarcos" aria-label="GitHub">
+          <img
+            src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+            alt="GitHub"
+            width="18"
+            height="18"
+            style="display: inline;vertical-align: middle; margin: 0"
+          >
+        </a>&nbsp;&nbsp;&nbsp;
+      
   
     
     
   
-
-  
+    
+    
+      
+      
+    
   
     
     
-      <a class="title" href="/contact/">CONTACT</a>&nbsp;&nbsp;&nbsp;
-    
-  
-
-  
-  
-
-  
-  
-
-  
   
     
     
-      <a class="title" href="/projects/">PROJECTS</a>&nbsp;&nbsp;&nbsp;
-    
-  
-
-  
   
     
     
-      <a class="title" href="/tags/">TAGS</a>&nbsp;&nbsp;&nbsp;
+      
+      
+        <a class="title" href="/projects/">PROJECTS</a>&nbsp;&nbsp;&nbsp;
+      
     
   
-
+    
+    
+      
+      
+        <a class="title" href="/tags/">TAGS</a>&nbsp;&nbsp;&nbsp;
+      
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
   
   
-
+    <a class="title" href="/archive/">ARCHIVE</a>&nbsp;&nbsp;&nbsp;
   
   
-
+    <a class="title" href="/rss.xml">RSS</a>&nbsp;&nbsp;&nbsp;
   
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
     </div>
   </div>
 </center>
@@ -269,7 +285,7 @@
 I chose to port Zarch to PICO-8 because it was a simple-looking yet groundbreaking 3D game for its time. The original game relies on many tricks to convince players they are exploring a fully fledged 3D open world, full of rolling mountains, valleys, lakes, scenery items and particle effects. These techniques conserved a lot of processing power on the systems of that era, and they fit well with PICO-8’s own harsh limitations. In the next sections, I explain in more detail how I built a reusable PICO-8 engine for creating Zarch-like games, and the techniques inolved in rendering the terrain.</p>
 
 <h3 id="making-a-zarchy-engine">Making a “Zarchy” engine</h3>
-<p>PRION is built on top of an engine built by me, called <a href="https://github.com/tpnk-dev/zarchy-engine-pico8">Zarchy Engine</a>. It contains the very bare bone code that enables criation of zarch-style games, complete with the ability to generate a custom terrain, instantiate 2D and 3D game objects, as well as particles.</p>
+<p>PRION is built on top of an engine built by me, called <a href="https://github.com/tpnk-dev/zarchy-engine-pico8">Zarchy Engine</a>. It contains the very bare bones code that enables the creation of zarch-style games, complete with the ability to generate a custom terrain, instantiate 2D and 3D game objects, as well as particles.</p>
 
 <figure class="media">
 <img src="https://user-images.githubusercontent.com/24397077/145115452-012ad352-d3e1-491f-ba76-34961287d8b4.gif" alt="main_25" style="max-width: 100%; display: block;margin: 10px auto" data-target="animated-image.originalImage" />
@@ -299,7 +315,7 @@ I chose to port Zarch to PICO-8 because it was a simple-looking yet groundbreaki
   </figcaption>
 </figure>
 
-<p>The heightmap for the entire world is stored in a single PICO-8 table and has a size of 253x253. The terrain height variation is calculated once during run-time by summing sine and cossine waves and create a wrappable terrain.</p>
+<p>The heightmap for the entire world is stored in a single PICO-8 table and has a size of 253x253. The terrain height variation is calculated once during run-time by summing sine and cossine waves and creating a wrappable terrain.</p>
 
 <h2 id="a-port-remake-demake-or-maybe-even-a-sidemake">A port, remake, demake, or maybe even a sidemake?</h2>
 
