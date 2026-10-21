@@ -29,6 +29,7 @@ github: https://github.com/pivettamarcos
 description: A technical blog about low-level programming
 baseurl: ""
 url: "https://www.pivettamarcos.com"
+timezone: America/Sao_Paulo
 
 social:
   - name: "GitHub"
