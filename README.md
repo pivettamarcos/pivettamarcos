@@ -83,3 +83,47 @@ website: "https://example.com"
 
 Write the project notes here.
 ```
+
+## ✍️ Adding content, building & deploying
+
+Branches:
+
+- `gh-pages-source` — edit here. This is the Jekyll site.
+- `gh-pages` — generated output, published at `https://www.pivettamarcos.com`. Do not edit by hand.
+- `main` — profile README only, unrelated.
+
+New article — create `_posts/YYYY-MM-DD-slug.md`:
+
+```md
+---
+layout: post
+title: "My title"
+date: 2026-10-21
+description: "One-line summary"
+tags: [tag1, tag2]
+---
+
+Content here.
+```
+
+New project — create `_projects/name.md` using the front matter template in the Projects section above.
+
+Preview locally (needs Ruby 3.3 + Bundler):
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+Deploy — just push `gh-pages-source`:
+
+```bash
+git checkout gh-pages-source
+git push origin gh-pages-source
+```
+
+What happens next:
+
+1. `.github/workflows/jekyll-to-gh-pages.yml` builds with Jekyll and pushes `./_site` to `gh-pages` (keeps `CNAME` = `www.pivettamarcos.com`).
+2. The managed `pages build and deployment` workflow publishes `gh-pages`.
+3. Check progress under the repo `Actions` tab.
